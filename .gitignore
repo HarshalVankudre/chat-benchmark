@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.research/
+
+# Local agent settings and the benchmark's per-run sample inbox
+.claude/
+.chat-benchmark-tmp/

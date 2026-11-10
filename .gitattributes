@@ -1,0 +1,5 @@
+# The reference vocabulary is verified by SHA-256 at run time: never convert its line endings.
+chat_benchmark/data/o200k_base.tiktoken -text
+
+* text=auto eol=lf
+*.png binary
